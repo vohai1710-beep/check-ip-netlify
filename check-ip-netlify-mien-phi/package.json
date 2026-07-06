@@ -1,0 +1,13 @@
+{
+  "name": "check-ip-netlify-mien-phi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Web check IP public, dang ky ten may mot lan, bao trung IP cho dan 64 may tren Netlify Free.",
+  "scripts": {
+    "build": "echo \"No build needed\""
+  },
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
